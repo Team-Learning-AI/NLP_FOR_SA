@@ -12,8 +12,9 @@ PyMongo est utilisé pour créer la base de données et la collection hôte Mong
   ![image](https://user-images.githubusercontent.com/62526508/107960027-641eec80-6fa4-11eb-9f86-67ee2d8085e2.png)
  ## Sentiment analysis
  ![image](https://user-images.githubusercontent.com/62526508/107958666-a0e9e400-6fa2-11eb-8048-46d0fb2221b4.png)
+  ## Named Entity
+![image](https://user-images.githubusercontent.com/62526508/107958787-d262af80-6fa2-11eb-879e-08061a0a4610.png)
  ## Token & Lemma 
 ![image](https://user-images.githubusercontent.com/62526508/107958702-b19a5a00-6fa2-11eb-8ff2-984af9de07fd.png)
- ## Named Entity
-![image](https://user-images.githubusercontent.com/62526508/107958787-d262af80-6fa2-11eb-879e-08061a0a4610.png)
+
  
