@@ -2,7 +2,7 @@
 Analyse de sentiment de tweets Covid19
 ## Partie Big Data
  &nbsp;&nbsp;&nbsp;Ce projet de synthèse donne le "sentiment" de tweets sur covid19 stockés sur un cluster MongoDB; les données sont distribuées sur plusieurs shards du cluster. 
-PyMongo est utilisé pour créer la base de données et la collection hôte MongoDB. Apache PySpark est utilisé pour faire un premier traitement des tweets et explorer via un requêtage distribué.
+PyMongo est utilisé pour explorer les documents mongo qui représentent les tweets.
 ## Partie Text Processing
  &nbsp;&nbsp;&nbsp;Diverses méthodes de prétraitement de texte sont utilisées par la suite pour préparer les tweets pour la phase machine learning
 ## Partie Machine Learning 
