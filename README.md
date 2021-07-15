@@ -16,5 +16,5 @@ PyMongo est utilisé pour explorer les documents mongo qui représentent les twe
 ![image](https://user-images.githubusercontent.com/62526508/107958787-d262af80-6fa2-11eb-879e-08061a0a4610.png)
  ## Fonctionnalité Token & Lemma 
 ![image](https://user-images.githubusercontent.com/62526508/107958702-b19a5a00-6fa2-11eb-8ff2-984af9de07fd.png)
-
+n
  
