@@ -9,6 +9,6 @@ PyMongo est utilisé pour explorer les documents mongo qui représentent les twe
  &nbsp;&nbsp;&nbsp;En dernier lieu, un modèle de classification de régression logistique est construit, entraîné et évalué. La fonctionnalité d'analyse de sentiment mais également les services de reconnaissance d'entités nommées, token et lemmma et résumé de corpus de texte sont finalement déployés via Streamlit. Pour information, Streamlit n'est ici q'un outil de déploiement et n'est pas un composant essentiel de ce projet.
  ## Partie Déploiement : Application streamlit
 
- ## Fonctionnalité Sentiment analysis
+ #### Fonctionnalité Sentiment analysis
  ![image](https://user-images.githubusercontent.com/62526508/107958666-a0e9e400-6fa2-11eb-8048-46d0fb2221b4.png)
  
